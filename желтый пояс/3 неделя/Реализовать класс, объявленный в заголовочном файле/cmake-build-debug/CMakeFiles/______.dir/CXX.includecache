@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/main.cpp
+phone_number.h
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/phone_number.h
+sstream
+-
+iostream
+-
+
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/phone_number.h
+string
+-
+

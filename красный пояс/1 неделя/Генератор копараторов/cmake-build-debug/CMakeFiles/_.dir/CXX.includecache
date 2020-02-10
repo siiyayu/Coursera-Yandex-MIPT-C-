@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Генератор копараторов/airline_ticket.h
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Генератор копараторов/main.cpp
+airline_ticket.h
+/Users/andrewbelyaev/CLionProjects/Генератор копараторов/airline_ticket.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Генератор копараторов/test_runner.h
+algorithm
+-
+tuple
+-
+numeric
+-
+
+/Users/andrewbelyaev/CLionProjects/Генератор копараторов/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/Users/andrewbelyaev/CLionProjects/красный пояс/4 неделя/StackVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewbelyaev/CLionProjects/красный пояс/4 неделя/StackVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewbelyaev/CLionProjects/красный пояс/4 неделя/StackVector/cmake-build-debug/CMakeFiles/StackVector.dir

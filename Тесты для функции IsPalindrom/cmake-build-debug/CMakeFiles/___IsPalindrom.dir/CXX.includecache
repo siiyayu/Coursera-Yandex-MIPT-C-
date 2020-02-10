@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Тесты для функции IsPalindrom/main.cpp
+iostream
+-
+map
+-
+set
+-
+sstream
+-
+stdexcept
+-
+string
+-
+vector
+-
+

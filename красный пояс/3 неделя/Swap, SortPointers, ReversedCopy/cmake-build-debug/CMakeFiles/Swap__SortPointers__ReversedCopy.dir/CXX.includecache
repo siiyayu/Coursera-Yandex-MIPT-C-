@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Swap, SortPointers, ReversedCopy/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Swap, SortPointers, ReversedCopy/test_runner.h
+algorithm
+-
+numeric
+-
+
+/Users/andrewbelyaev/CLionProjects/Swap, SortPointers, ReversedCopy/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

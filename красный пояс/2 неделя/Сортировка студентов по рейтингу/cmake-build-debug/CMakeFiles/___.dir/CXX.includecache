@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/main.cpp
+student.h
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/student.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/test_runner.h
+profile.h
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/profile.h
+algorithm
+-
+
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/profile.h
+chrono
+-
+iostream
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/student.h
+map
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Сортировка студентов по рейтингу/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

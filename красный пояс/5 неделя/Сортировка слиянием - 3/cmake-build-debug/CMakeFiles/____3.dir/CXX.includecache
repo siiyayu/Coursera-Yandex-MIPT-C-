@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Сортировка слиянием - 3/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Сортировка слиянием - 3/test_runner.h
+algorithm
+-
+memory
+-
+vector
+-
+
+/Users/andrewbelyaev/CLionProjects/Сортировка слиянием - 3/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

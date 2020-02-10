@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Translator1/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Translator1/test_runner.h
+string
+-
+vector
+-
+string_view
+-
+map
+-
+deque
+-
+
+/Users/andrewbelyaev/CLionProjects/Translator1/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

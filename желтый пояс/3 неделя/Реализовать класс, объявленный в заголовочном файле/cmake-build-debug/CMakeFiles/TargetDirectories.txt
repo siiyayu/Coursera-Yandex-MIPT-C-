@@ -1,0 +1,3 @@
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewbelyaev/CLionProjects/Реализовать класс, объявленный в заголовочном файле/cmake-build-debug/CMakeFiles/______.dir

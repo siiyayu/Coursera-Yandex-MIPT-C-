@@ -1,0 +1,3 @@
+/Users/andrewbelyaev/CLionProjects/Наследование своими руками/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewbelyaev/CLionProjects/Наследование своими руками/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewbelyaev/CLionProjects/Наследование своими руками/cmake-build-debug/CMakeFiles/__.dir

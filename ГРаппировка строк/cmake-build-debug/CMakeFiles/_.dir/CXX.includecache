@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/ГРаппировка строк/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/ГРаппировка строк/test_runner.h
+algorithm
+-
+string
+-
+vector
+-
+map
+-
+
+/Users/andrewbelyaev/CLionProjects/ГРаппировка строк/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

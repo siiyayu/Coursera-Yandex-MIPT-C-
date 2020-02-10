@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Оператор присваивания для SimpleVector/main.cpp
+simple_vector.h
+/Users/andrewbelyaev/CLionProjects/Оператор присваивания для SimpleVector/simple_vector.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Оператор присваивания для SimpleVector/test_runner.h
+numeric
+-
+vector
+-
+tuple
+-
+
+/Users/andrewbelyaev/CLionProjects/Оператор присваивания для SimpleVector/simple_vector.h
+algorithm
+-
+
+/Users/andrewbelyaev/CLionProjects/Оператор присваивания для SimpleVector/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

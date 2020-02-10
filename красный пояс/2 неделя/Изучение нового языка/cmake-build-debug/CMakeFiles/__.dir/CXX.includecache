@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Изучение нового языка/main.cpp
+profile.h
+/Users/andrewbelyaev/CLionProjects/Изучение нового языка/profile.h
+algorithm
+-
+string
+-
+vector
+-
+sstream
+-
+set
+-
+
+/Users/andrewbelyaev/CLionProjects/Изучение нового языка/profile.h
+chrono
+-
+iostream
+-
+string
+-
+

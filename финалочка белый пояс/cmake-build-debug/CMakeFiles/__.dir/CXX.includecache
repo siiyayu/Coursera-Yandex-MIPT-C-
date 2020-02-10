@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/финалочка белый пояс/main.cpp
+iostream
+-
+map
+-
+set
+-
+vector
+-
+string
+-
+iomanip
+-
+sstream
+-
+

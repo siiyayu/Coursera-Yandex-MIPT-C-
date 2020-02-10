@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/http_request.h
+string_view
+-
+
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/test_runner.h
+http_request.h
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/http_request.h
+stats.h
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/stats.h
+map
+-
+string_view
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/stats.h
+http_request.h
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/http_request.h
+string_view
+-
+map
+-
+
+/Users/andrewbelyaev/CLionProjects/Статистика web-сервера/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

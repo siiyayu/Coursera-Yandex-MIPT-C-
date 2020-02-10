@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Макрос UPDATE_FIELD/airline_ticket.h
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Макрос UPDATE_FIELD/main.cpp
+airline_ticket.h
+/Users/andrewbelyaev/CLionProjects/Макрос UPDATE_FIELD/airline_ticket.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Макрос UPDATE_FIELD/test_runner.h
+map
+-
+iostream
+-
+iomanip
+-
+
+/Users/andrewbelyaev/CLionProjects/Макрос UPDATE_FIELD/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

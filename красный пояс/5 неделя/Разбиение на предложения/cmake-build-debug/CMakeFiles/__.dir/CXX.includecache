@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Разбиение на предложения/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Разбиение на предложения/test_runner.h
+vector
+-
+
+/Users/andrewbelyaev/CLionProjects/Разбиение на предложения/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

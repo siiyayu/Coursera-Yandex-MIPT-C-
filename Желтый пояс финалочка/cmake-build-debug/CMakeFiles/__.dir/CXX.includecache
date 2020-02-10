@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/condition_parser.h
+node.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/node.h
+token.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/token.h
+memory
+-
+iostream
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/database.h
+map
+-
+set
+-
+vector
+-
+iostream
+-
+date.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/date.h
+algorithm
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/date.h
+iostream
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/iostream
+iomanip
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/main.cpp
+database.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/database.h
+date.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/date.h
+condition_parser.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/condition_parser.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/test_runner.h
+iostream
+-
+stdexcept
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/node.h
+date.h
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/date.h
+string
+-
+memory
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/test_runner.h
+sstream
+-
+exception
+-
+iostream
+-
+string
+-
+map
+-
+set
+-
+
+/Users/andrewbelyaev/CLionProjects/Желтый пояс финалочка/token.h
+sstream
+-
+vector
+-
+

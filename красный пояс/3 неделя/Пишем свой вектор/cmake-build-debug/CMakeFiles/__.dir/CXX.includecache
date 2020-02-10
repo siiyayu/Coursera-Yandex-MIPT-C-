@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Пишем свой вектор/main.cpp
+simple_vector.h
+/Users/andrewbelyaev/CLionProjects/Пишем свой вектор/simple_vector.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Пишем свой вектор/test_runner.h
+algorithm
+-
+iostream
+-
+vector
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Пишем свой вектор/simple_vector.h
+algorithm
+-
+
+/Users/andrewbelyaev/CLionProjects/Пишем свой вектор/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

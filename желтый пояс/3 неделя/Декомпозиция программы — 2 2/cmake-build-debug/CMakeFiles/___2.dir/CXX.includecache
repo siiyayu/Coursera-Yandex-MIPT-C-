@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/bus_manager.h
+responses.h
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/responses.h
+
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/main.cpp
+query.h
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/query.h
+bus_manager.h
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/bus_manager.h
+
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/query.h
+vector
+-
+string
+-
+iostream
+-
+
+/Users/andrewbelyaev/CLionProjects/Декомпозиция программы — 2/responses.h
+string
+-
+vector
+-
+map
+-
+iostream
+-
+

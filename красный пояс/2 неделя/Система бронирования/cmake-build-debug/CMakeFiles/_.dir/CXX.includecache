@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Система бронирования/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Система бронирования/test_runner.h
+algorithm
+-
+iostream
+-
+string
+-
+queue
+-
+stdexcept
+-
+set
+-
+
+/Users/andrewbelyaev/CLionProjects/Система бронирования/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

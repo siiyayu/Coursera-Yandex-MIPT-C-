@@ -1,0 +1,3 @@
+/Users/andrewbelyaev/CLionProjects/Написать объявление класса/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewbelyaev/CLionProjects/Написать объявление класса/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewbelyaev/CLionProjects/Написать объявление класса/cmake-build-debug/CMakeFiles/__.dir

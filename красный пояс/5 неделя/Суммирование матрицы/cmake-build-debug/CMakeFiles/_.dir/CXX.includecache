@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/красный пояс/5 неделя/Суммирование матрицы/main.cpp
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/красный пояс/5 неделя/Суммирование матрицы/test_runner.h
+profile.h
+/Users/andrewbelyaev/CLionProjects/красный пояс/5 неделя/Суммирование матрицы/profile.h
+vector
+-
+future
+-
+
+/Users/andrewbelyaev/CLionProjects/красный пояс/5 неделя/Суммирование матрицы/profile.h
+chrono
+-
+iostream
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/красный пояс/5 неделя/Суммирование матрицы/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

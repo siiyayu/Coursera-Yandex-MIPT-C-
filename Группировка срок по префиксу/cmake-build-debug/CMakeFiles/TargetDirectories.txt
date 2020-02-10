@@ -1,0 +1,3 @@
+/Users/andrewbelyaev/CLionProjects/Группировка срок по префиксу/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrewbelyaev/CLionProjects/Группировка срок по префиксу/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrewbelyaev/CLionProjects/Группировка срок по префиксу/cmake-build-debug/CMakeFiles/___.dir

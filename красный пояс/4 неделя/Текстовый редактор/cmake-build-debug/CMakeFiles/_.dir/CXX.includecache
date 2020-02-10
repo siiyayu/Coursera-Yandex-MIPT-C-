@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Текстовый редактор/main.cpp
+string
+-
+list
+-
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Текстовый редактор/test_runner.h
+
+/Users/andrewbelyaev/CLionProjects/Текстовый редактор/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewbelyaev/CLionProjects/Move-семантика в SimpleVector/main.cpp
+simple_vector_2.h
+/Users/andrewbelyaev/CLionProjects/Move-семантика в SimpleVector/simple_vector_2.h
+test_runner.h
+/Users/andrewbelyaev/CLionProjects/Move-семантика в SimpleVector/test_runner.h
+algorithm
+-
+iostream
+-
+vector
+-
+string
+-
+
+/Users/andrewbelyaev/CLionProjects/Move-семантика в SimpleVector/simple_vector_2.h
+algorithm
+-
+
+/Users/andrewbelyaev/CLionProjects/Move-семантика в SimpleVector/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+
